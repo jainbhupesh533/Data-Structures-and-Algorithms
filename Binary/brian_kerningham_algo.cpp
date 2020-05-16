@@ -16,7 +16,7 @@ unsigned int countSetBits(int n)
 /* Program to test function countSetBits */
 int main() 
 { 
-	int i = 9; 
+	int i = 17; 
 	cout << countSetBits(i); 
 	return 0; 
 } 
