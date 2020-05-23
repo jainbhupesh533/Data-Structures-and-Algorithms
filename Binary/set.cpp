@@ -20,8 +20,8 @@ using namespace std;
 // #define clr(val) memset(val,0,sizeof(val))
 // #define what_is(x) cerr << #x << " is " << x << endl;
 #define OJ \
-    freopen("checkup/input.txt", "r", stdin); \
-    freopen("checkup/output.txt", "w", stdout);
+    freopen("../checkup/input.txt", "r", stdin); \
+    freopen("../checkup/output.txt", "w", stdout);
 #define FIO ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 
 //Main Program 
