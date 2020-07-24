@@ -5,7 +5,7 @@ Topics taught in this course are the following:-
 
 1) [Introduction] - which includes Analysis of Algorithm, Intro to Asymptotic Notation, Space and Time Complexities.
 2) Mathematics
-3) [Bit Magic (Bit Manipulation)] (https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Binary)
+3) [Bit Magic (Bit Manipulation)](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Binary)
 4) [Recursion](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Recursion)
 5) [Arrays]
 6) [Searching]
