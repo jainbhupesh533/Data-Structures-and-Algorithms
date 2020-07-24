@@ -1,5 +1,23 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "*.tcc": "cpp"
+    },
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -std=c++14 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt && rm $dir$fileNameWithoutExt"
+       
+
+    
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMapByFileExtension": {
+    
+    },
+    "code-runner.executorMapByGlob": {
+    
+    },
+    "code-runner.languageIdToFileExtensionMap": {
+
+    
     }
 }
