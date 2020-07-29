@@ -7,9 +7,9 @@ Topics taught in this course are the following:-
 2) Mathematics
 3) [Bit Magic (Bit Manipulation)](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Binary)
 4) [Recursion](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Recursion)
-5) [Arrays]
-6) [Searching]
-7) Sorting
+5) [Arrays](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Arrays)
+6) [Searching](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Searching)
+7) [Sorting]
 8) Matrix
 9) Hashing
 10) [Strings]

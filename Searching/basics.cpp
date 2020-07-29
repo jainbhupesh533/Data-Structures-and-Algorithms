@@ -321,10 +321,12 @@ int getpairTriplet(vi v, int n, int x)
 
 // triplet of a pair of a sum sorted or unsorted is O(n^2) by hashing
 
+
 int main()
 {
     FIO;
-    OJ int n, d, x, l;
+    OJ;
+    int n, d, x, l;
 
     vi v;
     // vis v;
