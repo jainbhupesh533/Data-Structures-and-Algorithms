@@ -32,7 +32,7 @@ typedef vector<int> vi;
 // we always assume first array is smaller size then second one
 // if n1>n2 then we use to swap the array using pointers
 
-double medianSorted(vi a1, vi a2, int n1, int n2)
+double medianSorted(int a1[], int a2[], int n1, int n2)
 {
     int begin1 = 0, end1 = n1;
     while (begin1 <= end1)

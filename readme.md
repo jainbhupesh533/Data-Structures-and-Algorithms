@@ -1,4 +1,4 @@
-# GeeksForGeeks-DSA-2
+# Data Structure and Algorithms 
 This repository contains all the assignments and practice questions solved during the Data Structures and Algorithms course using C++ taught by the Geeks For Geeks team.
 
 Topics taught in this course are the following:-
@@ -23,7 +23,3 @@ Topics taught in this course are the following:-
 18) Greedy
 19) Backtracking
 20) Dynamic Programming
-
-
-
-**I recommend taking this course as it contains extraordinary content which is perfectly instructed by Sandeep Jain (ex-DE Shaw employee and ex-JIIT Noida assistant professor) also the founder of GeeksForGeeks to impart programming education at very low cost.**
