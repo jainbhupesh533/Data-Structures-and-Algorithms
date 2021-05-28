@@ -9,11 +9,11 @@ Topics taught in this course are the following:-
 4) [Recursion](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Recursion)
 5) [Arrays](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Arrays)
 6) [Searching](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Searching)
-7) [Sorting]
-8) Matrix
-9) Hashing
-10) [Strings]
-11) [Linked List]
+7) [Sorting](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Sorting)
+8) [Matrix](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Matrix)
+9) [Hashing](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Hashing)
+10) [Strings](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/String)
+11) [Linked List](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/LinkedList)
 12) [Stack]
 13) Queue
 14) Tree

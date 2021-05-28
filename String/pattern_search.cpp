@@ -29,10 +29,32 @@ typedef unordered_map<char, int> u_map;
     cin.tie(NULL);                    \
     cout.tie(NULL);
 
+
+//  * NAive Searching - O(n-m+1 * m) O(1)
+void naiveSearching(string str1, string str2)
+{
+    int n = str1.size();
+    int m = str2.size();
+    for (int i = 0; i <= n - m; i++)
+    {
+        int j;
+        for (j = 0; j < m; j++)
+            if (str2[j] != str1[i + j])
+                break;
+        if (j == m)
+            cout << i << " ";
+    }
+}
+
+// * Improved naive seaching for disctint
+
 int main()
 {
     FIO;
     OJ;
+    string str1, str2;
+    cin >> str1 >> str2;
 
+    naiveSearching(str1, str2);
     return 0;
 }
