@@ -13,7 +13,7 @@ Topics taught in this course are the following:-
 8) [Matrix](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Matrix)
 9) [Hashing](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Hashing)
 10) [Strings](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/String)
-11) [Linked List](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/LinkedList)
+11) [Linked List](https://github.com/jainbhupesh533/Geek-for-Geeks-DSA/tree/master/Linked%20List)
 12) [Stack]
 13) Queue
 14) Tree
